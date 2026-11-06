@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="client/public/assets/logo.png" alt="LearnVerse Logo" width="140" height="140" style="border-radius: 8px; aspect-ratio: 1 / 1; object-fit: contain;" />
-</p>
+
 
 # LearnVerse — WebXR Tutor
 
